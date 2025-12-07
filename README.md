@@ -11,10 +11,6 @@ I'm a **recovering addict** who spent **two years homeless**. Today I'm **2 year
 - Develop static/dynamic sites and simple backends  
 - Help local businesses understand and adopt new tech
 
-### How I work
-- I identify the problem → research → design → build → debug → ship  
-- I use AI as a pair programmer, not a code machine  
-- I learn each stack by working on real problems
 
 ### My projects
 - **DeDynamics.pro** — creative-tech studio  
@@ -30,3 +26,4 @@ I just started and I am here to learn from real devs.
 ---
 
 **Thanks for visiting — feedback, issues, and discussions are always welcome.**
+I just started here and currently am busy with making my repos public. Please comment, criticize and contribute if you only have time.
