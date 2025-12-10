@@ -5,6 +5,9 @@ I learn by building, debugging, and shipping — no shortcuts, no no-code.
 
 I'm a **recovering addict** who spent **two years homeless**. Today I'm **2 years clean**, rebuilding my life by building **DeDynamics.pro**: a small creative-tech studio helping local businesses use modern tools, AI workflows, automation, and real problem-solving.
 
+Subscribe to my newsletter to know more about me and my journey:
+https://www.thedaydreamverse.blog/newsletter
+
 ### What I do
 - Build small tools, APIs, and “brains” (storage-backed systems)  
 - Create AI agents & operational automations  
